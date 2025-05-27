@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m a graduate student studying Statistics at Florida State University 📚
-📖 I'm currently working on building my Github
+- 🔭 I’m a graduate student studying Statistics at Florida State University 📚
+- 📖 I'm currently working on building my Github
 - 🌱 I’m currently learning coding
 - 🤔 I’m looking for help with anything Data Science related!
 - 📫 How to reach me: hungtrgn@gmail.com
